@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Andy Liu</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Architected and led a team to implement the new Android app from scratch to promote informal learning and knowledge sharing among professional network in enterprise and personalized social network using Retrofit, Dagger 2, ReactiveX/RxAndroid, SimpleContentProvider,  Picasso, EventBus and etc.
+
+        \n\nActed as Agile Kanban master and managed the Android team that included developer, manual and automation QA engineer.
+
+        \n\nReviewed and merged pull requests on GitHub daily.  Managed tasks in JIRA and continuous integration using Jenkins.
+
+        \n\nCame up with new QA process and enforced continuous QA to ensure the quality of the app in a daily basis.
+        \n\n
+</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
